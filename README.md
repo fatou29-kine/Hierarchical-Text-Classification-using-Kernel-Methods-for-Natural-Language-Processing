@@ -25,10 +25,8 @@ This repository contains the implementation and research findings of my **Master
 
 ## 📂 Repository Structure
 
-* **notebooks/**
     * 01_Baseline_TFIDF_SVM_RF.ipynb`: Comparison of statistical methods and traditional machine learning.
     * 02_Advanced_BERT_SVM_Hybrid.ipynb`: Implementation of BERT embeddings and non-linear kernel reactivation.
-* **docs/**
     * Master_Thesis_Fatou_Kine.pdf: The full academic document defended at AIMS Senegal.
 * **requirements.txt**: List of dependencies (transformers, scikit-learn, pandas, etc.).
 
