@@ -34,3 +34,5 @@ This repository contains the implementation and research findings of my **Master
 
 **Fatou Kiné Touré**
 *Junior Data Scientist & AI Consultant | AIMS Senegal Alumni.
+
+🔗 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/fatou-kine-toure/)
